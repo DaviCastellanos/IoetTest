@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{EC91C343-597F-46A4-8BF8-4F3D04F8FEAB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="IoetTest/Program.cs">
+    <Files>
+      <File FileName="IoetTest/Program.cs" Line="1" Column="1" />
+      <File FileName="IoetTest/EmployeeData.txt" Line="1" Column="19" />
+      <File FileName="IoetTest/HourlyFee.cs" Line="4" Column="23" />
+      <File FileName="IoetTest/WeekendDayFee.cs" Line="20" Column="6" />
+      <File FileName="IoetTest/TimeManager.cs" Line="5" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="IoetTest" expanded="True">
+            <Node name="IoetTest" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.IoetTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.IoetTestTests FirstBuild="True" />
+</Properties>

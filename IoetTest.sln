@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1703.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IoetTest", "IoetTest\IoetTest.csproj", "{EC91C343-597F-46A4-8BF8-4F3D04F8FEAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IoetTestTests", "IoetTestTests\IoetTestTests.csproj", "{085681CA-09DB-433A-B7E1-E3D72A2D92C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC91C343-597F-46A4-8BF8-4F3D04F8FEAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC91C343-597F-46A4-8BF8-4F3D04F8FEAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC91C343-597F-46A4-8BF8-4F3D04F8FEAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC91C343-597F-46A4-8BF8-4F3D04F8FEAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{085681CA-09DB-433A-B7E1-E3D72A2D92C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{085681CA-09DB-433A-B7E1-E3D72A2D92C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{085681CA-09DB-433A-B7E1-E3D72A2D92C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{085681CA-09DB-433A-B7E1-E3D72A2D92C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C918EC9C-A1DC-4ECF-A1A5-2EE9FBFD2012}
+	EndGlobalSection
+EndGlobal
