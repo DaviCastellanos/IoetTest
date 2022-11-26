@@ -25,9 +25,9 @@ Moq 4.18.2
 
 How to run:
 
-1. Download the repository and open it with Visual Studio.
+1. Download the repository and open the solution file (.sln) with Visual Studio.
 2. Verify that you have both nuget packages (Microsoft.Extensions.DependencyInjection and Microsoft.Extensions.Hosting)
-in IoetTest dependencies.
+in IoetTest dependencies. You might need to restore them doing right click at the root of the solution.
 3. Build IoetTest.
 4. Include EmployeeData.txt file in bin/Debug/net6.0. bin is in the same directory where the project is.
-5. Run the app in Visual Studio by hitting the play button and see the results in the console.
+5. Run the app in Visual Studio by hitting the play button and see the results in the terminal.
