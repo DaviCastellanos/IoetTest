@@ -5,7 +5,7 @@ other SOLID principles were also followed such as single responsibility, open/cl
 biggest advantages of this app consist of the database layer being highly decoupled, a new source of data like an API
 returning a JSON could be integrated with very low mainteanace cost.
 
-Approach and methodology:
+Approach and Methodology:
 
 Since a very unusual input format was suggested from the beggining, a data layer was going to be needed to create the
 data models and based on them implement all the logic to find out the amount to pay each employee. If this app were to be
